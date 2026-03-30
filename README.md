@@ -43,7 +43,6 @@ Focus: A curated headline, a data-driven "About" section, and endorsements for s
 tools for studying, practising, and collaborating. This task builds familiarity with two
 categories: coding practice platforms and cloud collaboration tools.
 `​Platform: CodeChef` 
-
 ​Completed Challenge: Python Introduction / "Solve Me First"
 ​Evidence: * Completed challenge screenshots and earned badges are located in the task-3-platforms/ directory.
 
@@ -103,6 +102,8 @@ This folder focuses on digital communication and online responsibility. It conta
 -    ​Screen Sharing (Optional): In some cases, they convince the victim to download a remote desktop app (like AnyDesk or TeamViewer) to "help" them, allowing the attacker to see the victim's screen and OTPs.
 -    ​The PIN Entry: The victim, unaware that entering a UPI PIN is only required for sending money, enters their credentials.
 -​     Exfiltration: The funds are immediately debited from the victim's account and moved through multiple "mule" accounts to make tracking difficult.
+![WhatsApp Image 2026-03-31 at 3 33 48 AM](https://github.com/user-attachments/assets/a8fc214c-f35e-45b5-a588-3fe6f21bb5eb)
+
 ### Part B: Prevention Checklist
 This directory is dedicated to online safety and fraud prevention in the Indian context. It contains the `prevention-checklist.md` file, detailing 8 actionable tips to stay safe online, with a specific emphasis on UPI/financial security and official reporting channels like the National Cyber Crime Portal.
 ### ​Stay Safe Online: A Guide for Students
