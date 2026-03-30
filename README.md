@@ -60,11 +60,23 @@ categories: coding practice platforms and cloud collaboration tools.
 ​Response Sheet: Screenshot of the linked Google Sheet (Response View) located in task-3-platforms/
 <img width="355" height="795" alt="Screenshot 2026-03-30 235353" src="https://github.com/user-attachments/assets/eb402e13-5485-4fe8-bc75-53b36c163277" />
 
-## Task-3 : EXPLORE COADING & COLLABRATION PLATFORM
+## Task-4 : EXPLORE COADING & COLLABRATION PLATFORM
 ### Part A: Professional Correspondence
 ​This section contains two essential templates for professional outreach, adhering to strict etiquette rules regarding subject lines, greetings, structure, and sign-offs.
 - ​1. Academic Extension Request
 ​Target: Professor
 Context: Requesting a deadline extension for an assignment.
 ​ Key Features: Clear identification of the course, a valid reason for the request, and a proposed new deadline.
+
+-  As a Digital Ambassador, clear and professional communication is the cornerstone of effective leadership and collaboration. This task demonstrates the ability to navigate formal academic and professional correspondence, as well as the implementation of responsible social media practices for college students.
+-  ![WhatsApp Image 2026-03-31 at 2 57 01 AM (1)](https://github.com/user-attachments/assets/8d061d93-2817-4718-90c7-bc2b8232ab0e)
+
+![WhatsApp Image 2026-03-31 at 2 57 01 AM](https://github.com/user-attachments/assets/8f00f539-78e7-474a-b8a4-cdb88beec091)
+
+### Part B: Digital Citizenship & Social Media
+​Maintaining a professional digital footprint is vital for modern students. This section includes a strategic checklist for responsible social media use.
+​Social Media Do’s and Don’ts
+​A comprehensive guide for college students to manage their online presence effectively.
+​Location: task-4-email-etiquette/social-media-checklist.md
+This folder focuses on digital communication and online responsibility. It contains the `social-media-checklist.md` file, which clearly lists 5 Do's and 5 Don'ts for responsible social media use tailored for college students to protect their emerging professional brands.
 
