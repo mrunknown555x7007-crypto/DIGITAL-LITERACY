@@ -79,4 +79,43 @@ Context: Requesting a deadline extension for an assignment.
 ​A comprehensive guide for college students to manage their online presence effectively.
 ​Location: task-4-email-etiquette/social-media-checklist.md
 This folder focuses on digital communication and online responsibility. It contains the `social-media-checklist.md` file, which clearly lists 5 Do's and 5 Don'ts for responsible social media use tailored for college students to protect their emerging professional brands.
-
+### Key Do's:
+- Think before you post: Consider the long-term impact on your future.
+- Protect your privacy: Use strong passwords and adjust privacy settings.
+- Verify information: Check facts before sharing to avoid spreading misinformation.
+- Be respectful: Maintain positive interactions in comments.
+- se social media constructively: Focus on learning, networking, and personal growth.
+- Manage your time: Set limits to ensure social media does not interfere with your studies.
+### Key Don'ts:
+- Don't share sensitive information: Avoid posting your address, phone number, or other private data publicly.
+- Don't engage in harmful behavior: Refrain from cyberbullying, trolling, or hate speech.
+- Don't post inappropriate content: Avoid sharing offensive material.
+- Don't believe everything you see: Be critical of information to avoid fake news and rumors.
+- Don't overshare: Avoid broadcasting your daily life or real-time location.
+- Don't let social media impact your mental health: Avoid unhealthy comparisons with others.
+## Task-5 :Cybercrime Awareness Case Study & Prevention
+### Part A: Case Study – UPI & Online Financial Fraud
+#### What is the Crime?
+​Unified Payments Interface (UPI) Fraud is a type of financial cybercrime where attackers trick victims into authorizing unauthorized fund transfers. Unlike traditional hacking, this relies heavily on Social Engineering, where the attacker manipulates the victim's trust or lack of technical knowledge to gain access to their bank account via UPI-enabled apps.
+#### How it Happens (Step-by-Step)
+-  ​The Hook: The attacker contacts the victim via a phone call or SMS, posing as a bank official, a buyer on a marketplace (like OLX), or a customer support representative.
+-  The "Request Money" Trick: The attacker sends a "Collect Request" on a UPI app but tells the victim they are receiving a payment. They often say, "Just enter your PIN to receive the cashback/refund."
+-    ​Screen Sharing (Optional): In some cases, they convince the victim to download a remote desktop app (like AnyDesk or TeamViewer) to "help" them, allowing the attacker to see the victim's screen and OTPs.
+-    ​The PIN Entry: The victim, unaware that entering a UPI PIN is only required for sending money, enters their credentials.
+-​     Exfiltration: The funds are immediately debited from the victim's account and moved through multiple "mule" accounts to make tracking difficult.
+### Part B: Prevention Checklist
+This directory is dedicated to online safety and fraud prevention in the Indian context. It contains the `prevention-checklist.md` file, detailing 8 actionable tips to stay safe online, with a specific emphasis on UPI/financial security and official reporting channels like the National Cyber Crime Portal.
+### ​Stay Safe Online: A Guide for Students
+​This checklist provides eight actionable steps to secure your digital life. The full version is available in the task-5-cybercrime/ directory.
+#### ​Financial & UPI Safety
+-  ​Never Enter PIN to Receive Money: Always remember that a UPI PIN is only required for sending money or checking your balance. If someone asks you to enter your PIN to "receive a prize" or "refund," it is a scam.
+-   Verify UPI IDs Before Paying: Before hitting 'Pay' on apps like GPay, PhonePe, or Paytm, double-check the recipient's name and UPI ID. Avoid scanning random QR codes sent over WhatsApp or Telegram.
+#### ​Account & Password Security
+-     Enable Two-Factor Authentication (2FA): Activate 2FA on all essential accounts (Gmail, Instagram, LinkedIn). Use an authenticator app rather than just SMS for better security.
+-  ​Use Unique Passwords: Never reuse the same password for your university portal and your personal email. Use a password manager to keep track of complex, unique strings.
+#### ​Browsing & Connectivity
+-   ​Avoid Public Wi-Fi for Sensitive Tasks: Do not access your bank account or enter credit card details while connected to free college or cafe Wi-Fi. If necessary, use a trusted VPN.
+​-  Check the URL (HTTPS): Before entering any login credentials on a website, ensure the URL starts with https:// and look for the padlock icon in the browser bar.
+####  Social & Device Safety
+-  ​Audit Your Privacy Settings: Regularly check your Instagram and Facebook privacy settings to limit who can see your personal details, such as your phone number or birthday.
+-  ​Update Software Promptly: Don’t ignore "System Update" notifications. These updates often include critical security patches that protect your device from the latest malware and ransomware.
