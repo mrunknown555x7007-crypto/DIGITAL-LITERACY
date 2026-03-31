@@ -23,18 +23,26 @@ A professional digital presence is no longer optional — it is expected. In thi
 up your foundational portfolio across the key platforms that employers, internship
 coordinators, and the academic community check.
 ### 1. GitHub: The Project Repository
+
+LINK - https://github.com/mrunknown555x7007-crypto
 ​Purpose: Showcases technical proficiency, version control habits, and collaborative coding.
 
 ​Key Features: Documentation for the Gym Management System and the AI-Powered Chessbot.
 
 ![WhatsApp Image 2026-03-30 at 10 26 15 PM](https://github.com/user-attachments/assets/4b0e35b3-bc68-48fa-98dc-e183b71cee51)
 
-### 2. LinkedIn: The Professional Network
+### 2. LinkedIn: The Professional Network 
+LINK - https://www.linkedin.com/in/samridh-mishra-2b546b3bb/
 ​Purpose: Connects me with industry professionals and highlights my career trajectory.
 ​
 Focus: A curated headline, a data-driven "About" section, and endorsements for skills in Python and AI development.
 
 <img width="884" height="716" alt="Screenshot 2026-03-30 215650" src="https://github.com/user-attachments/assets/b2e75333-0ed8-49fd-8052-22434d58f357" />
+### 3. Kaggle:   ONLINE LEARNING PLATFORM 
+LINK - https://www.kaggle.com/samridhmishra007
+Kaggle is the world's largest online community and platform for data science and machine learning, owned by Google LLC. It acts as a central hub where data scientists, AI developers, and researchers can find and publish datasets, build models in a browser-based environment, and compete in, or host, data science challenges. With over 15 million users, it serves as a critical resource for learning, collaboration, and showcasing skills to potential employers.
+<img width="1445" height="806" alt="Screenshot 2026-03-30 221830" src="https://github.com/user-attachments/assets/f55e3e36-6e54-4769-b681-62e0d347b125" />
+
 
 ## Task-3 : EXPLORE COADING & COLLABRATION PLATFORM
 ### Part A: Coding Practice
